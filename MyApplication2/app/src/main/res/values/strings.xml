@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_broker">Please enter random broker port</string>
+    <string name="next">Next</string>
+    <string name="enter_ip">Please enter user ip</string>
+    <string name="enter_port">Please enter user port</string>
+    <string name="enter_username">Please enter username</string>
+    <string name="login">login</string>
+    <string name="upload">Upload</string>
+    <string name="search">Search</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="view_videos">View Videos</string>
+    <string name="view_topics">View Topics</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="sub_topic">Subscribe to topic</string>
+    <string name="s_c_image">Select or Capture Image</string>
+    <string name="hashtags">Please enter hashtags</string>
+    <string name="ok">OK</string>
+    <string name="back">Back</string>
+</resources>
